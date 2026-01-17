@@ -1,2 +1,4 @@
 # Analise-pandas
-Exercicitar analises utilizando pandas e gerar insights e mostrar-los usando o matplot
+
+Projeto de pandas para analise de vendas
+Criaçao de um relatorio que tem segmento por gerente e qual tendencia das vendas
